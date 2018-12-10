@@ -1,4 +1,6 @@
-﻿namespace SampleProject.learnCSharp
+﻿using System;
+
+namespace SampleProject.learnCSharp
 {
     class _05_IfElse
     {
@@ -12,18 +14,18 @@
 
             bool a = true;
 
-            int b = 10;
+            int b = 11;
 
-            if (b == 20)
+            if (b == 10)
             {
-
+                Console.WriteLine("B is 10");
             }
             else
             {
-
+                Console.WriteLine("B is NOT 10");
             }
 
-
+            Console.Read();
 
 
 

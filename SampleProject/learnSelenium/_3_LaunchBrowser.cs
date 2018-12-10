@@ -7,7 +7,7 @@ namespace SampleProject.learnSelenium
 {
     class _3_LaunchBrowser
     {
-        static void Main(string[] args)
+        static void Main123(string[] args)
         {
             //Launch different browsers
 

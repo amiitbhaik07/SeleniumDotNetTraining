@@ -7,22 +7,27 @@ namespace SampleProject.learnCSharp
         static void Main3(string[] args)
         {
 
-
             //Data Types primarily used in Selenium
 
             bool b = true;
 
             char ch = 'a';
 
-            decimal de = 3.14M;
+            int i = 45;
+
+            i = 50;
+
+            long l = 45679451;
+
+            //decimal de = 3.14M;
 
             double d = 3.14;
 
-            float fl = 3.14F;
+            //float fl = 3.14F;
 
-            int i = 2;
+            
 
-            long l = 2;
+           
 
 
 
@@ -33,6 +38,10 @@ namespace SampleProject.learnCSharp
             //Using var
 
             var v = "Hi there!";
+
+            var v2 = true;
+
+            var v3 = 3.14;
 
             //v = true;             //Error
 
@@ -110,14 +119,11 @@ namespace SampleProject.learnCSharp
 
             abc = 55;           //Initialization
 
-            int p = abc + 10;   //Usage
+            int p = abc*98;      //Usage
 
             //Declare and initialize together, use later
 
             int pqr = 55;
-
-
-
 
 
 

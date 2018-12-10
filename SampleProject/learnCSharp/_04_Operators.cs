@@ -35,6 +35,8 @@ namespace SampleProject.learnCSharp
 
 
 
+            a = 10;
+
             //Relational Operators
 
             if (a == 10) { }
