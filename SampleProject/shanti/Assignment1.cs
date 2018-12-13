@@ -8,7 +8,7 @@ namespace SampleProject.shanti
 {
     class Assignment1
     {
-        static void Main(string[] abc)
+        static void Main1213(string[] abc)
         {
             Console.WriteLine("Hello please enter the radius of circle.");
 

@@ -87,6 +87,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="learnSelenium\_1_SampleScript.cs" />
     <Compile Include="shanti\Assignment1.cs" />
+    <Compile Include="shanti\LeapYear.cs" />
+    <Compile Include="shanti\LearnNUnit.cs" />
+    <Compile Include="shanti\Loops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
