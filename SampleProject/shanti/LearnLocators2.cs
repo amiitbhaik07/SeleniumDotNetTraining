@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -89,7 +90,9 @@ namespace SampleProject.shanti
 
 
 
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
 
+            //wait.Until(ExpectedConditions.ElementIsVisible(By.XPath));
 
 
 
