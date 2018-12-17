@@ -88,13 +88,17 @@
     <Compile Include="learnSelenium\_1_SampleScript.cs" />
     <Compile Include="shanti\Assignment1.cs" />
     <Compile Include="shanti\LeapYear.cs" />
+    <Compile Include="shanti\LearnAccessModifiers.cs" />
     <Compile Include="shanti\LearnActions.cs" />
     <Compile Include="shanti\LearnActions1.cs" />
     <Compile Include="shanti\LearnAlert.cs" />
     <Compile Include="shanti\LearnClass.cs" />
     <Compile Include="shanti\LearnDifferentVariables.cs" />
+    <Compile Include="shanti\LearnExceptions.cs" />
     <Compile Include="shanti\LearnIFrames.cs" />
+    <Compile Include="shanti\LearnInheritance.cs" />
     <Compile Include="shanti\LearnJS.cs" />
+    <Compile Include="shanti\LearnLists.cs" />
     <Compile Include="shanti\LearnSelect.cs" />
     <Compile Include="shanti\LearnSelectElement.cs" />
     <Compile Include="shanti\LearnJSExecution.cs" />
